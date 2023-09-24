@@ -1,0 +1,22 @@
+.vaadin-login-form{
+margin : auto;
+width  : 30%;
+    color : red;
+}
+
+vaadin-login-form-wrapper{
+    margin : auto;
+    border-block-color : red ;
+}
+
+.test1 h1{
+    color : green;
+    margin-top : 10;
+}
+
+p {
+/*Applies to all p elements regardless of whether they are
+ located inside my-view*/
+    font-size: 5em;
+    color : blue;
+}
